@@ -1,0 +1,11 @@
+country_region,total_confirmed,total_deaths,death_rate_pct,recovery_rate_pct
+US,4290259,148011,3.45,30.9
+Brazil,2442375,87618,3.59,75.61
+India,1480073,33408,2.26,64.26
+Russia,816680,13334,1.63,73.74
+South Africa,452529,7067,1.56,60.75
+Mexico,395489,44022,11.13,76.82
+Peru,389717,18418,4.73,69.93
+Chile,347923,9187,2.64,91.96
+United Kingdom,300111,45759,15.25,0.18
+Iran,293606,15912,5.42,86.9
